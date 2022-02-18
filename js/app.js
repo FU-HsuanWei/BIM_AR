@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/build_BIM&interior_move.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/build_GPS.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
